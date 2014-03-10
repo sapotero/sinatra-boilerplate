@@ -10,7 +10,7 @@ Go!
 
 Download and run sinatra-bootstrap:
 
-    git clone git@github.com:pokle/sinatra-bootstrap.git
+    git clone git@github.com:sapotero/sinatra-boilerplate.git
     
     cd sinatra-bootstrap
     bundle install             # To install sinatra
